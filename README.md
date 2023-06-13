@@ -40,6 +40,10 @@ push <br> pull <br><br> 원격저장소 <br><br><br> pull
 1. 원격저장소
 2. push, pull
 
+## 6. 순서 없는 목록 <!-- + 또는 - 또는 * -->
+- 원격저장소
+- push, pull
+- 협업하기
 
 
 
