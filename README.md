@@ -1,5 +1,5 @@
 ## 떡볶이 레시피
-
+![image](https://github.com/BeomhyunPark/work02/assets/136288298/b902525a-0b54-45ce-852d-015e5191cf30)
 ### 재료
 
 #### 떡볶이
