@@ -52,3 +52,11 @@ push <br> pull <br><br> 원격저장소 <br><br><br> pull
     let a=10;
     let b=10;
   </script>
+~~~
+
+## 8. 링크 주소
+<http://www.multicampus.com>
+
+[멀티캠퍼스](http://www.multicampus.com)
+
+[멀티캠퍼스](http://www.multicampus.com, "클릭하면 멀티캠퍼스 홈페이지로 이동합니다.")
